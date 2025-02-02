@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Jayanti Gupta</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jayantigupta.489@gmail.com**
 
-- ⚡ Fun fact **I like to crochet**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
