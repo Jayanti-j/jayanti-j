@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayantigupta.489@gmail.com**
 
-- ⚡ Fun fact **I like to crochet**
+- ⚡ Fun fact **I feel zombie attack has perks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
