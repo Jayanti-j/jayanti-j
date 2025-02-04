@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jayantigupta.489@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I am pretty confident to survive a zombie attack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
