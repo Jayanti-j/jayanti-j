@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayanti Gupta</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+- 👯 My portfolio [portfolio website](https://jayanti-j.github.io/portfolioWebsite/)
+
 - 🔭 I’m currently working on [Simon Memory Game](https://jayanti-j.github.io/simon_memory_game/)
 
 - 🌱 I’m currently learning **NodeJs with ExpressJs and React**
-
-- 👯 My portfolio [portfolio website](https://jayanti-j.github.io/portfolioWebsite/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayanti-j](https://github.com/Jayanti-j)
 
