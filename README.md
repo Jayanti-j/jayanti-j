@@ -1,7 +1,7 @@
 # <h2 align="left">Hi 👋! My name is Jayanti and I'm a Tech Enthusiast from India</h2>
 👯<b> My portfolio</b> <a href="https://jayanti-j.github.io/portfolioWebsite/"> portfolio website</a><br><br>
 🌱 <b>I’m currently learning </b>NodeJs with ExpressJs and React<br><br>
-👨‍💻 All of <b>my projects</b> are available at https://github.com/Jayanti-j<br><br>
+👨‍💻 <b>My project Repositories</b> are available at https://github.com/Jayanti-j<br><br>
 📫 <b>How to reach me</b> jayantigupta.489@gmail.com<br><br>
 ⚡ <b>Fun fact</b> I feel zombie attack has perks<br><br>
 
