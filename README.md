@@ -1,4 +1,4 @@
-# <h2 align="left">Hi 👋! My name is Jayanti and I'm a Tech Enthusiast from India</h2>
+# <h2 align="left">Hi 👋! My name is Jayanti and I'm a student and Tech Enthusiast from India</h2>
 👯<b> My portfolio</b> <a href="https://jayanti-j.github.io/portfolioWebsite/"> portfolio website</a><br><br>
 🌱 <b>I’m currently learning </b>NodeJs with ExpressJs and React,and databases <br><br>
 📫 <b>How to reach me</b> jayantigupta.489@gmail.com<br><br>
