@@ -29,35 +29,35 @@
 
 ### 👨‍💻 Programming Languages  
 <div align="center">
-  [![C++](https://img.shields.io/badge/C++-6A0DAD?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-  [![C](https://img.shields.io/badge/C-6A0DAD?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-FFD700?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Python](https://img.shields.io/badge/Python-DA70D6?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-6A0DAD?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-6A0DAD?style=flat&logo=c&logoColor=white" alt="C Badge"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-FF6347?style=flat&logo=javascript&logoColor=white" alt="JavaScript Badge"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-FFD700?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-DA70D6?style=flat&logo=python&logoColor=white" alt="Python Badge"></a>
 </div>
 
 ### 🖥️ Frontend Development  
 <div align="center">
-  [![React](https://img.shields.io/badge/React-8A2BE2?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-4B0082?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9932CC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-800080?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-8A2BE2?style=flat&logo=react&logoColor=black" alt="React Badge"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-4B0082?style=flat&logo=next.js&logoColor=white" alt="Next.js Badge"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-9932CC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-800080?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"></a>
 </div>
 
 ### 📡 Backend Development  
 <div align="center">
-  [![Node.js](https://img.shields.io/badge/Node.js-9932CC?style=flat&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
-  [![NestJS](https://img.shields.io/badge/NestJS-800080?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
-  [![Express.js](https://img.shields.io/badge/Express.js-6A0DAD?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-9932CC?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js Badge"></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-800080?style=flat&logo=nestjs&logoColor=white" alt="NestJS Badge"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-6A0DAD?style=flat&logo=express&logoColor=white" alt="Express.js Badge"></a>
 </div>
 
 ### 🗄️ Databases & DevOps  
 <div align="center">
-  [![MongoDB](https://img.shields.io/badge/MongoDB-9932CC?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DA70D6?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![Docker](https://img.shields.io/badge/Docker-FF6347?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFD700?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-9932CC?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-DA70D6?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-6A0DAD?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-FF6347?style=flat&logo=docker&logoColor=white" alt="Docker Badge"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-FFD700?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"></a>
 </div>
 
 ---
