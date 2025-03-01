@@ -21,7 +21,7 @@
 - 📧 **Email:** [jayantigupta.489@gmail.com](mailto:jayantigupta.489@gmail.com)  
 - 🌐 **Portfolio:** [jayanti-j.github.io/portfolioWebsite](https://jayanti-j.github.io/portfolioWebsite)  
 - 🐦 **Twitter:** [@jayantigupta](https://twitter.com/jayantigupta)  
-- 💼 **LinkedIn:** [Jayanti Gupta](https://www.linkedin.com/in/jayanti-gupta/)
+- 💼 **LinkedIn:** [Jayanti Gupta](https://www.linkedin.com/in/jayanti-gupta-j/)
 
 ---
 
