@@ -2,7 +2,7 @@
 👯<b> My </b> <a href="https://jayanti-j.github.io/portfolioWebsite/"> portfolio website</a><br><br>
 🌱 <b>I’m currently learning </b>NodeJs with ExpressJs and React,and databases <br><br>
 📫 <b>How to reach me</b> jayantigupta.489@gmail.com<br><br>
-⚡ <b>Fun fact</b> I feel zombie attack has perks<br><br>
+⚡ <b>Fun fact</b> I feel zombie attack has perks <br><br>
 
 ###
 
